@@ -7,13 +7,9 @@ Pod::Spec.new do |s|
                 'This is a fork from https://github.com/futuretap/InAppSettingsKit to include the latest upstream patch' \
                 'which hasnt made it out yet'
   s.homepage  = 'https://github.com/AndyQ/InAppSettingsKit'
-<<<<<<< HEAD
-  s.author    = { 'Luc Vandal' =>  'http://www.futuretap.com/contact/' }
-=======
   s.author    = { 'Luc Vandal' =>  'http://www.futuretap.com/contact/',
                   'Ortwin Gentz' => 'http://edovia.com/company/#contact_form' }
 
->>>>>>> f9ae750... Added podspec
   s.license   = 'BSD'
   s.source    = { :git => 'https://github.com/AndyQ/InAppSettingsKit.git' }
 
